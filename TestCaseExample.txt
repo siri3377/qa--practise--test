@@ -1,0 +1,7 @@
+Test Case Id: TC001
+Test Scenation: login functionality
+Steps:
+1. Open the login page
+2. Enter username and password
+3. Click the login button
+Expected Result: User should successfully log in
