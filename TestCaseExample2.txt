@@ -1,0 +1,9 @@
+Test Case Id: TC002
+Test Scenario: User Registration
+Type of Testing: Functional
+Steps:
+1. Open registration page
+2. Enter valid user details
+3. Click the register button
+
+Expected Result: User should successfully register and see a welcome homepage
