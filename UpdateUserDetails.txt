@@ -1,0 +1,20 @@
+TestCase: Tc0007
+Test Scenario: Verify whether the user can update the details on the account page
+Precondition: The user should have valid credentials to log in
+Type of Testing: Functional/API Testing
+
+Steps: Invoke the API endpoint to update user details
+Replace old email with valid new email address {Email address:" Siri@gmail.com"}
+Send a PUT request to the server
+Capture the response 
+
+Expected Result: 
+The email address should get updated successfully
+The response should be 200 success ok
+
+Actual Result: To be executed
+Status: pass/fail/blocked
+
+
+
+
