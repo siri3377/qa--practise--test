@@ -1,0 +1,10 @@
+TestCaseId-TC002
+Test Scenario: Validating User Registration page
+Type of Testing: Functional Testing
+Steps: 
+1. Open Chrome browser
+2. Click on the Signup button
+3. Fill the form by entering all mandatory fields: Firstname, Last name, Mobile number, Email address and Country.
+4. Click on the submit button
+Expected Result: The user should successfully register 
+
