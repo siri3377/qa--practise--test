@@ -1,7 +1,7 @@
 TestCase Id: TC003
 Testing Type: Functional /Negative Testing
-Title: Verifying the Login page
+Title: Verifying the Login page with invalid password
 Steps: Open the Chrome browser and navigate to the URL 
 Enter a valid Username and an invalid Password
 Click on the Submit button
-Expected Result: User shouldn't get logged in, and an error message should be shown: "Enter valid details."
+Expected Result: User shouldnot be logged in and an error message should be shown: "Enter valid details."
