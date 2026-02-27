@@ -1,0 +1,14 @@
+Test Case ID: TC001
+Test Scenario: Validate login functionality
+Type of Testing: Functional
+Steps:
+
+Open Chrome browser and navigate to the application URL (x website)
+
+Enter valid username and valid password
+
+Click on the Submit/Login button
+
+Expected Result:
+
+User should successfully log in and land on the home page
